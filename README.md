@@ -4,7 +4,9 @@ upload a PDF → we split it into chunks → index chunks with vector embeddings
 
 <b>Prerequisites</b><br>
 1. Must have python v3 or above<br>
-2. In your terminal, go to your project folder and install all the required dependencies using: "pip install -r requirements.txt"<br><br>
+2. In your terminal, go to your project folder and install all the required dependencies using: "pip install -r requirements.txt"<br>
+3. Create openai account and get API key<br>
+4. Inside the folder create secrets.toml file and paste the API keyas such: OPENAI_API_KEY = "API KEY"<br><br>
 
 
 
